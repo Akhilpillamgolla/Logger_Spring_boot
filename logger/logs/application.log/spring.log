@@ -1,0 +1,15 @@
+2023-07-06 16:10:18.427  INFO 23480 --- [main] com.example.demo.ProfilesApplication     : Starting ProfilesApplication using Java 17.0.5 on LTIN265174 with PID 23480 (C:\Users\2160504\eclipse-workspace\logger\target\classes started by 2160504 in C:\Users\2160504\eclipse-workspace\logger)
+2023-07-06 16:10:18.433  INFO 23480 --- [main] com.example.demo.ProfilesApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-07-06 16:10:20.321  INFO 23480 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-07-06 16:10:20.344  INFO 23480 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06 16:10:20.345  INFO 23480 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.76]
+2023-07-06 16:10:20.563  INFO 23480 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06 16:10:20.563  INFO 23480 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2009 ms
+2023-07-06 16:10:21.304  INFO 23480 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-06 16:10:21.322  INFO 23480 --- [main] com.example.demo.ProfilesApplication     : Started ProfilesApplication in 3.888 seconds (JVM running for 5.678)
+2023-07-06 18:25:36.455  INFO 23480 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-06 18:25:36.461  INFO 23480 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-07-06 18:25:36.483  INFO 23480 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 21 ms
+2023-07-06 18:26:59.015  INFO 23480 --- [RMI TCP Connection(146)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-07-06 18:26:59.055  INFO 23480 --- [RMI TCP Connection(146)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-07-06 18:26:59.059  INFO 23480 --- [RMI TCP Connection(146)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Destroying Spring FrameworkServlet 'dispatcherServlet'
